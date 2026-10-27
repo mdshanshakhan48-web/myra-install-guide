@@ -1,3 +1,4 @@
+
 # MYRA — Install & Setup Guide
 
 **MYRA** is a voice-first AI assistant powered by Google Gemini. It talks to you in **148+ languages** (Hindi, Hinglish, English, Tamil, Spanish, Japanese…), sees your screen/camera, and controls your device with real tools.
